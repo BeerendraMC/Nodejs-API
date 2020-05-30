@@ -1,0 +1,10 @@
+{
+  "PORT": 4000,
+  "MONGO_ATLAS_PW": "yourmongopassword",
+  "JWT_KEY": "yoursecretkey",
+  "GMAIL_ID": "yourgmailid",
+  "CLIENT_ID": "yourgmailclientid",
+  "CLIENT_SECRET": "yourgmailclientsecret",
+  "REFRESH_TOKEN": "yourgmailrefreshtoken",
+  "ACCESS_TOKEN": "yourgmailaccesstoken"
+}

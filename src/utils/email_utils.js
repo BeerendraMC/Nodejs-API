@@ -63,7 +63,7 @@ const sendWithHTMLBody = async (toAddress, subjectLine, htmlBody) => {
  * Sends email with html body and attachments to the given toAddress (using nodemailer)
  * @param {string} toAddress to address (comma separated email id's if more than one recepient)
  * @param {string} subjectLine subject line
- * @param {string} htmlBody html body
+ * @param {string} htmlBody html body (read a file)
  * @param {array} attachments array of attachment objects
  * @returns {Promise<string>} response from nodemailer
  */
